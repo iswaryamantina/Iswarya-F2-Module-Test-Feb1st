@@ -1,0 +1,74 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: lightgrey;
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  color: black;
+  padding-top: 10px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.primary {
+  color: black;
+  text-align: left;
+  padding-left: 50px;
+}
+.space {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.image {
+  height: 125px;
+  width: 250px;
+}
+.instruction {
+  font-size: xx-large;
+  text-align: center;
+}
+.show-space {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.hide {
+  display: none;
+}
+.inp {
+  height: 35px;
+  width: 400px;
+}
+.subDiv {
+  background-color: grey;
+  padding: 50px;
+}
+.par {
+  font-size: x-large;
+  font-weight: bold;
+}
+.main {
+  height: 200px;
+  width: 200px;
+}
+.common {
+  font-size: x-large;
+  color: white;
+  font-weight: bold;
+}
+.rolling {
+  font-size: x-large;
+  font-weight: bold;
+}
+.token {
+  font-size: x-large;
+  font-weight: bold;
+}
+.congo {
+  height: 150px;
+  width: 300px;
+}
